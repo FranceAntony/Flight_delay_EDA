@@ -1,3 +1,3 @@
-
-This project provides a comprehensive approach to understanding and predicting flight delays, offering valuable insights and a foundation for further enhancement with additional features or advanced modeling techniques.
+# FLIGHT DELAY PREDICTION DATA
+### This project explores the patterns and causes of flight delays using a dataset that provides comprehensive flight records. The data includes airline details, flight numbers, airports of origin and destination, scheduled and actual times of departure and arrival, and delay-related information. Specific factors contributing to delays—such as air traffic control, maintenance, and weather—are analyzed to understand their impact on flight punctuality. This study aims to identify and quantify delay patterns and underlying causes to improve operational efficiency and enhance decision-making for both airlines and passengers. Data preprocessing steps include handling missing values and encoding delay reasons, ensuring a robust foundation for exploratory data analysis and modeling.
 
